@@ -11,16 +11,17 @@
 
 * **PowerBI via edX:** [Link to PowerBI -- ASK SAL](https://courses.edx.org/courses/course-v1:Microsoft+DAT207x+2T2018/course/)
   * Completion Date: November something
-  * _Description of project:_ Through the PowerBI edx course, I learned 
+  * _Description of project:_ Through the PowerBI edx course, I learned the following concepts: 
 
 
 * **AWS Cloud Practitioner:** [Link to AWS Cloud Practitioner](#)
-  * Completion Date: November something
-  * _Description of project:_ Through the AWS Cloud Practitioner, I learned
+  * Completion Date: November something 
+  * _Description of project:_ Through the AWS Cloud Practitioner, I learned 
 
 * **Linux Basics:** [Link to Linux](#)
   * Completion Date: November something
   * _Description of project:_ Through the Linux (Guru 99) Tutorial, I learned
+  
 
 
 
