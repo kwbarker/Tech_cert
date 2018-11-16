@@ -1,4 +1,5 @@
 # Technical Training Completed
+## By Kyle Barker
 
 * **Github:** [Link to Github Training Profile](https://github.com/kwbarker)
   * Completion Date: September 12?
