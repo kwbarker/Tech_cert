@@ -11,7 +11,7 @@
 
 * **PowerBI via edX:** [Link to PowerBI -- ASK SAL](https://courses.edx.org/courses/course-v1:Microsoft+DAT207x+2T2018/course/)
   * Completion Date: November 11?
-  * _Description of project:_ Through the PowerBI edx course, I learned the following concepts: 
+  * _Description of project:_ Through the PowerBI edx course, I learned the following concepts: PowerBI Desktop Data transformations, 
 
 
 * **AWS Cloud Practitioner:** [Link to AWS Cloud Practitioner](#)
