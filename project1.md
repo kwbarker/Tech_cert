@@ -5,7 +5,7 @@
   * Completion Date: September 12?
   * _Description of project:_ Through the github learning platform, I learned how to communicate via markdown, create and edit github pages, integrate html into github, and upload a project to github. 
  
-* **Powershell:** [Link to Powershell Reward Evidence](https://mva.microsoft.com/MyMVA/Dashboard.aspx)
+* **Powershell:** [Link to Powershell Reward Evidence](https://mva.microsoft.com/RewardEvidence.aspx/?key=nXcH5vbwEAP1jrDcPs9TCg2)
   * Completion Date: November 26?
   * _Description of project:_ Through the Microsoft VA powershell academy, I learned how to use Powershell, a task-based, command-line, automation platform and scripting language that allows you to simplify the management of your systems.
 
