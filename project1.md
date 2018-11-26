@@ -10,12 +10,12 @@
   * _Description of project:_ Through the Microsoft VA powershell academy, I learned how to use Powershell, a task-based, command-line, automation platform and scripting language that allows you to simplify the management of your systems.
 
 
-* **PowerBI via edX:** [Link to PowerBI Proof of Training](https://github.com/kwbarker/Tech_cert/blob/master/AWSCert.png)
+* **PowerBI via edX:** [Link to PowerBI Proof of Training](https://github.com/kwbarker/Tech_cert/blob/master/PowerBICert.png)
   * Completion Date: November 11?
   * _Description of project:_ Through the PowerBI edx course, I learned the following concepts: PowerBI Desktop Data transformations, desktop modeling, desktop visualization, service, working with excel, and direct connectivity. 
 
 
-* **AWS Cloud Practitioner:** [Link to AWS Cloud Practitioner Certificate](https://github.com/kwbarker/Tech_cert/blob/master/PowerBICert.png)
+* **AWS Cloud Practitioner:** [Link to AWS Cloud Practitioner Certificate](https://github.com/kwbarker/Tech_cert/blob/master/AWSCert.png)
   * Completion Date: November 20?
   * _Description of project:_ Through the AWS Cloud Practitioner Training Course, I learned how to define what the AWS Cloud is and the basic global infrastructure, basic AWS Cloud architectural principles, and basic/core characteristics of deploying and operating in the AWS Cloud.
 
