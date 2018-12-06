@@ -1,7 +1,7 @@
 # Technical Training Completed
 ## By Kyle Barker
 
-* **COMPTIA NETWORK+ CERTIFICATION:** [Link to Certificate](https://github.com/kwbarker/Tech_cert/blob/master/NetworkCert.pdf)
+* **COMPTIA NETWORK+ CERTIFICATION:** [Link to Certificate](https://user-images.githubusercontent.com/42590350/49595405-838a4b80-f93d-11e8-84ea-de0f09ad43d4.png)
   * Completion Date: May 11, 2018
   * _Description of Certification:_ "Network+ (Network Plus) is a mid-level certification for network technicians. This certification is designed to test the competency of a mid-level network technician in supporting and configuring TCP/IP clients in terms of network design, cabling, hardware setup, configuration, installation, support, and troubleshooting."
 
