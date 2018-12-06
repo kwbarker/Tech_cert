@@ -2,7 +2,7 @@
 ## By Kyle Barker
 
 * **COMPTIA NETWORK+ CERTIFICATION:** [Link to Certificate](https://github.com/kwbarker/Tech_cert/blob/master/NetworkCert.png)
-  *Completion Date: May 11, 2018
+  * Completion Date: May 11, 2018
 
 * **Github:** [Link to Github Training Profile](https://github.com/kwbarker)
   * Completion Date: September 12, 2018
