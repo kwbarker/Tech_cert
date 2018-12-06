@@ -1,7 +1,7 @@
 # Technical Training Completed
 ## By Kyle Barker
 
-* **COMPTIA NETWORK+ CERTIFICATION:** [Link to Certificate](https://github.com/kwbarker/Tech_cert/blob/master/NetworkCert.png)
+* **COMPTIA NETWORK+ CERTIFICATION:** [Link to Certificate](https://github.com/kwbarker/Tech_cert/blob/master/NetworkCert.pdf)
   * Completion Date: May 11, 2018
 
 * **Github:** [Link to Github Training Profile](https://github.com/kwbarker)
