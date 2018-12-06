@@ -7,7 +7,7 @@
 
 * **Github:** [Link to Github Training Profile](https://github.com/kwbarker)
   * Completion Date: September 12, 2018
-  * _Description of project:_ Through the github learning platform, I learned how to communicate via markdown, create and edit github pages, integrate html into github, and upload a project to github. 
+  * _Description of project:_ Through the github learning platform, I learned how to communicate via markdown, create and edit github pages, integrate html into github, and upload a project to github. I learned how to fork projects in order to mirror it and keep the original safe and sound in case something goes awry and also learned how to make a webpage such as this,  
  
 * **Powershell:** [Link to Powershell Reward Evidence](https://mva.microsoft.com/RewardEvidence.aspx/?key=nXcH5vbwEAP1jrDcPs9TCg2)
   * Completion Date: November 26, 2018
